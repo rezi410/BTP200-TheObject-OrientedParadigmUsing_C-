@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: lab, Configuration: Debug Win32 ------
+1>cstring.cpp
+1>lab.vcxproj -> C:\Users\reziy\Documents\semester 2\BTP200\WS03\lab\Debug\lab.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
