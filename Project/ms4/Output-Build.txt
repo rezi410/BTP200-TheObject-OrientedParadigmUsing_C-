@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: ms4, Configuration: Debug Win32 ------
+1>CovidPatient.cpp
+1>TriagePatient.cpp
+1>C:\Users\reziy\Documents\semester 2\BTP-Project\MS4\TriagePatient.cpp(53,10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>C:\Users\reziy\Documents\semester 2\BTP-Project\MS4\TriagePatient.cpp(99,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>Generating Code...
+1>ms4.vcxproj -> C:\Users\reziy\Documents\semester 2\BTP-Project\MS4\Debug\ms4.exe
+1>Done building project "ms4.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
