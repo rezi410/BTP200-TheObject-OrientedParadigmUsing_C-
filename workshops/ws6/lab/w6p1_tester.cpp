@@ -6,7 +6,6 @@
 // This file tests the lab section of your workshop
 /////////////////////////////////////////////
 
-// TODO:  정답은 맞게 나오지만 확실하지 않음 | 다시 해보길 추천
 
 #include <iostream>
 #include <fstream>
