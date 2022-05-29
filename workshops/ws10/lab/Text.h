@@ -1,11 +1,4 @@
-//==============================================
-// Name:           Jungjoo Kim
-// Student Number: 162 641 195
-// Email:          jkim594@myseneca.ca
-// Section:        NCC
-// Workshop:       Workshop10_LAB
-//==============================================
-// Text.h
+
 
 #ifndef SDDS_TEXT_H__
 #define SDDS_TEXT_H__
