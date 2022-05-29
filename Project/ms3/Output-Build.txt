@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ms3, Configuration: Debug Win32 ------
+1>Time.cpp
+1>ms3.vcxproj -> C:\Users\reziy\Documents\semester 2\BTP-Project\MS3\Debug\ms3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
